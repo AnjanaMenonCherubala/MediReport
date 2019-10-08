@@ -21,5 +21,5 @@ We will provide support for multiple space-delimited languages for example, Engl
 
 **Technology stack:**
 
-React, OCR, OpenNLP, SimpleNLP Linked Open Data/Semantic Graph.
+React, Node JS,  Tesseract OCR, OpenNLP, SimpleNLP Linked Open Data/Semantic Graph, NLG - Arria, Quill, Wordsmith.
 
